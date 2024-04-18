@@ -1,0 +1,217 @@
+{
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0DGFt5fue3tSqXlWwiBJd2"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 0
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0DGFt5fue3tSqXlWwiBJd2",
+    "id" : "0DGFt5fue3tSqXlWwiBJd2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+      "width" : 640
+    } ],
+    "name" : "hello!",
+    "owner" : {
+      "display_name" : "Software Project 2023",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/31tq7ras5jwwmpt5lic5tilkyi7e"
+      },
+      "href" : "https://api.spotify.com/v1/users/31tq7ras5jwwmpt5lic5tilkyi7e",
+      "id" : "31tq7ras5jwwmpt5lic5tilkyi7e",
+      "type" : "user",
+      "uri" : "spotify:user:31tq7ras5jwwmpt5lic5tilkyi7e"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NixjYzE1YjQzN2QwZmQ1MTI1OTkxODFhYzZhYjIwM2IzMGViNzM4ZDgw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0DGFt5fue3tSqXlWwiBJd2/tracks?offset=0&limit=100",
+      "items" : [ {
+        "added_at" : "2023-10-23T03:15:57Z",
+        "added_by" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/user/31tq7ras5jwwmpt5lic5tilkyi7e"
+          },
+          "href" : "https://api.spotify.com/v1/users/31tq7ras5jwwmpt5lic5tilkyi7e",
+          "id" : "31tq7ras5jwwmpt5lic5tilkyi7e",
+          "type" : "user",
+          "uri" : "spotify:user:31tq7ras5jwwmpt5lic5tilkyi7e"
+        },
+        "is_local" : false,
+        "primary_color" : null,
+        "track" : {
+          "album" : {
+            "album_type" : "album",
+            "artists" : [ {
+              "external_urls" : {
+                "spotify" : "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+              },
+              "href" : "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+              "id" : "2h93pZq0e7k5yf4dywlkpM",
+              "name" : "Frank Ocean",
+              "type" : "artist",
+              "uri" : "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+            } ],
+            "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+            },
+            "href" : "https://api.spotify.com/v1/albums/3mH6qwIy9crq0I9YQbOuDf",
+            "id" : "3mH6qwIy9crq0I9YQbOuDf",
+            "images" : [ {
+              "height" : 640,
+              "url" : "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+              "width" : 640
+            }, {
+              "height" : 300,
+              "url" : "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+              "width" : 300
+            }, {
+              "height" : 64,
+              "url" : "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+              "width" : 64
+            } ],
+            "name" : "Blonde",
+            "release_date" : "2016-08-20",
+            "release_date_precision" : "day",
+            "total_tracks" : 17,
+            "type" : "album",
+            "uri" : "spotify:album:3mH6qwIy9crq0I9YQbOuDf"
+          },
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+            "id" : "2h93pZq0e7k5yf4dywlkpM",
+            "name" : "Frank Ocean",
+            "type" : "artist",
+            "uri" : "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+          } ],
+          "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+          "disc_number" : 1,
+          "duration_ms" : 249191,
+          "episode" : false,
+          "explicit" : true,
+          "external_ids" : {
+            "isrc" : "QZ5C81600002"
+          },
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/2ZWlPOoWh0626oTaHrnl2a",
+          "id" : "2ZWlPOoWh0626oTaHrnl2a",
+          "is_local" : false,
+          "name" : "Ivy",
+          "popularity" : 83,
+          "preview_url" : "https://p.scdn.co/mp3-preview/3eb4d77b749c0f49037e6aee78536eb35b5c88c7?cid=fe5fee17f1e84f3ea27fdeb3e548e43f",
+          "track" : true,
+          "track_number" : 2,
+          "type" : "track",
+          "uri" : "spotify:track:2ZWlPOoWh0626oTaHrnl2a"
+        },
+        "video_thumbnail" : {
+          "url" : null
+        }
+      }, {
+        "added_at" : "2023-10-23T03:15:57Z",
+        "added_by" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/user/31tq7ras5jwwmpt5lic5tilkyi7e"
+          },
+          "href" : "https://api.spotify.com/v1/users/31tq7ras5jwwmpt5lic5tilkyi7e",
+          "id" : "31tq7ras5jwwmpt5lic5tilkyi7e",
+          "type" : "user",
+          "uri" : "spotify:user:31tq7ras5jwwmpt5lic5tilkyi7e"
+        },
+        "is_local" : false,
+        "primary_color" : null,
+        "track" : {
+          "album" : {
+            "album_type" : "album",
+            "artists" : [ {
+              "external_urls" : {
+                "spotify" : "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+              },
+              "href" : "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+              "id" : "2h93pZq0e7k5yf4dywlkpM",
+              "name" : "Frank Ocean",
+              "type" : "artist",
+              "uri" : "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+            } ],
+            "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+            },
+            "href" : "https://api.spotify.com/v1/albums/3mH6qwIy9crq0I9YQbOuDf",
+            "id" : "3mH6qwIy9crq0I9YQbOuDf",
+            "images" : [ {
+              "height" : 640,
+              "url" : "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+              "width" : 640
+            }, {
+              "height" : 300,
+              "url" : "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+              "width" : 300
+            }, {
+              "height" : 64,
+              "url" : "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+              "width" : 64
+            } ],
+            "name" : "Blonde",
+            "release_date" : "2016-08-20",
+            "release_date_precision" : "day",
+            "total_tracks" : 17,
+            "type" : "album",
+            "uri" : "spotify:album:3mH6qwIy9crq0I9YQbOuDf"
+          },
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+            "id" : "2h93pZq0e7k5yf4dywlkpM",
+            "name" : "Frank Ocean",
+            "type" : "artist",
+            "uri" : "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+          } ],
+          "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+          "disc_number" : 1,
+          "duration_ms" : 257380,
+          "episode" : false,
+          "explicit" : true,
+          "external_ids" : {
+            "isrc" : "QZ5C81600005"
+          },
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/35xSkNIXi504fcEwz9USRB",
+          "id" : "35xSkNIXi504fcEwz9USRB",
+          "is_local" : false,
+          "name" : "Solo",
+          "popularity" : 71,
+          "preview_url" : "https://p.scdn.co/mp3-preview/a29c15d496f95ef1c5fd41a92cbe72b7660d486e?cid=fe5fee17f1e84f3ea27fdeb3e548e43f",
+          "track" : true,
+          "track_number" : 5,
+          "type" : "track",
+          "uri" : "spotify:track:35xSkNIXi504fcEwz9USRB"
+        },
+        "video_thumbnail" : {
+          "url" : null
+        }
+      } ],
+      "limit" : 100,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0DGFt5fue3tSqXlWwiBJd2"
+  }

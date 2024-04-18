@@ -1,0 +1,120 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: black;
+}
+
+.card {
+    flex: 0 0 calc(30% - 20px);
+    max-width: calc(20% - 20px);
+    margin: 15px;
+    border-radius: 8px;
+    text-align: center;
+
+    /* Glowing gradient effect of Card */
+    box-shadow:
+        -5px -5px 15px #FF616D,
+        5px 5px 15px #66DE93;
+}
+
+.image-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s ease;
+}
+
+.image-container img:hover {
+    transform: scale(1.2);
+}
+
+h3 {
+    color: #FF616D;
+}
+
+p {
+    color: white;
+}
+
+/* Specialization.css */
+
+.specialization-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-top: 20px;
+    background-color: black;
+}
+
+.form-bar {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    text-align: center;
+
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button[type="submit"] {
+    padding: 8px 16px;
+    background-color: #ff616d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.new-url {
+    background-color: #342e37;
+    border-radius: 8px;
+    box-shadow: -5px -5px 15px #ff616d, 5px 5px 15px #66de93;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.new-url p {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.new-url a {
+    color: #66DE93;
+    text-decoration: none;
+}
+
+.analytics-body {
+    text-align: center;
+}
+
+.graph-container {
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  .carousel-image {
+    width: 100%;
+    max-width: 100%; 
+    height: auto;
+  }
+  
+  .carousel {
+    width: 100%;
+  }

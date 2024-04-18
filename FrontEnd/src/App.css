@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background-color: black;
+  font-family: 'Lato';
+}
+
+.whole-body {
+  font-family: 'Lato', sans-serif;
+}
+
+.page-body {
+  padding-bottom: 200px;
+}
+
+.App-header {
+  /* Gradient for Header Background */
+  background-image: linear-gradient(to right, #D83A56, #FF616D, #66DE93); 
+  /*min-height: 15vh;*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+.header-content h1 {
+  font-size: calc(18px + 2vmin);
+  margin-right: 20px;
+}
+
+.header-content form {
+  display: flex;
+  align-items: center;
+}
+
+.header-content input {
+  margin-right: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+button[type="logout"] {
+  padding: 8px 16px;
+  background-color: black;
+  color: #ff616d;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Navbar {
+  background-color: #342E37;
+}

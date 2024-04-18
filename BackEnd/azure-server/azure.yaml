@@ -1,0 +1,7 @@
+name: simple-flask-container-app
+
+services:
+  web:
+    project: .
+    language: py
+    host: containerapp
